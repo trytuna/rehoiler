@@ -109,7 +109,6 @@
         [_programButton performClick:self];
         return;
     }
-    NSLog(@"%hhd", [_port isOpen]);
     [_progressBar setHidden:NO];
     [_progressBar setIndeterminate:NO];
     [_progressBar setUsesThreadedAnimation:YES];
