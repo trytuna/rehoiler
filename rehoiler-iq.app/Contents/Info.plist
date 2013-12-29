@@ -37,7 +37,7 @@
 	<key>DTXcodeBuild</key>
 	<string>5A3005</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.9</string>
+	<string>10.7</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2013 meditate code. All rights reserved.</string>
 	<key>NSMainNibFile</key>
